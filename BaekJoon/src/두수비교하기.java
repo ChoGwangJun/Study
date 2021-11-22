@@ -7,7 +7,6 @@ public class 두수비교하기 {
 
 		int A = sc.nextInt();
 		int B = sc.nextInt();
-		System.out.println(A + " " + B);
 
 		if (A > B) {
 			System.out.println(">");
