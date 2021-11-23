@@ -20,4 +20,3 @@ public class 시험성적 {
 		}
 	}
 }
-1
