@@ -11,5 +11,6 @@ public class ±¸±¸´Ü {
 		for (int i = 1; i <= 9; i++) {
 			System.out.println(n + " * " + i + " = " + (i*n));
 		}
+		scn.close();
 	}
 }
