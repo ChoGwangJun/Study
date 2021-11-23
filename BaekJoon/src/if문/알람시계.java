@@ -22,3 +22,4 @@ public class 알람시계 {
 	}
 
 }
+1
