@@ -19,6 +19,4 @@ public class 사분면구하기 {
 		}
 		scn.close();
 	}
-
 }
-1
