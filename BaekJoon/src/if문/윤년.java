@@ -19,6 +19,4 @@ public class À±³â {
 		scn.close();
 
 	}
-
 }
-1
