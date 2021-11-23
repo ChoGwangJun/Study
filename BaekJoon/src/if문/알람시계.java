@@ -20,6 +20,4 @@ public class 알람시계 {
 		}
 		scn.close();
 	}
-
 }
-1
