@@ -1,3 +1,4 @@
+package if¹®;
 import java.util.Scanner;
 
 public class À±³â {

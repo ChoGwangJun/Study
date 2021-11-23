@@ -1,3 +1,4 @@
+package if문;
 import java.util.Scanner;
 
 public class 사분면구하기 {
